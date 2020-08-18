@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, I'm Haris Aqeel 👋 </h1>
-<h3 align="center">🚀 On my wat to fullstack devlover 🚀</h3>
+<h3 align="center">🚀 On my wat to Fullstack developer 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Haris-sp4rk" alt="Haris-sp4rk" /> </p>
 
@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Data structures in C++
 - 👯 I’m looking to collaborate on Python projects
 - 💬 Ask me about Web dev related Stuff 
-, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:k190249@nu.edu.pk)
+, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)]k190249@nu.edu.pk
 
 - ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) and Gaming <3
 
