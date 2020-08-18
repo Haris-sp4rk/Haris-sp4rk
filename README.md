@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, I'm Haris Aqeel 👋 </h1>
-<h3 align="center">🚀 On my wat to Fullstack developer 🚀</h3>
+<h3 align="center">🚀 On my way to Fullstack developer 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Haris-sp4rk" alt="Haris-sp4rk" /> </p>
 
