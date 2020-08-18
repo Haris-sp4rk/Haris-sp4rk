@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center"> Hello, I'm Haris Aqeel 👋 </h1>
+<h3 align="center">🚀 On my wat to fullstack devlover 🚀</h3>
 
-<!--
-**Haris-sp4rk/Haris-sp4rk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Haris-sp4rk" alt="Haris-sp4rk" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Python 
+- 🌱 I’m currently learning Data structures in C++
+- 👯 I’m looking to collaborate on Python projects
+- 💬 Ask me about Web dev related Stuff 
+, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:k190249@nu.edu.pk)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) and Gaming <3
+
+## Some Statistics About Me
+![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=Haris-sp4rk&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
+
+⭐️ From [Haris-sp4rk](https://github.com/Haris-sp4rk)
