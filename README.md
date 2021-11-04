@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Haris-sp4rk" alt="Haris-sp4rk" /> </p>
 
 - 🔭 I’m currently working on Node.js 
-- 🌱 I’m currently Design and Analysis of Algorithms
-- 👯 I’m looking to collaborate Backend Projects
+- 🌱 I’m currently learning Design and Analysis of Algorithms
+- 👯 I’m looking to collaborate on Backend Projects
 - 💬 Ask me about Web dev related Stuff 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)]k190249@nu.edu.pk
 
